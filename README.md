@@ -15,8 +15,8 @@
 
 这个小工具实实在在地改善了我自己的日常阅读体验。现在我将它开源出来，希望能给同样受注意力分散、跳行、视觉漂移困扰的朋友带来一点实在的帮助。
 
-<!-- 如有录制的动图，放置在根目录并取消下行注释 -->
-<!-- ![演示动图](demo.gif) -->
+![alt text](1.jpeg)
+![alt text](2.png)
 
 ### ✨ 核心特性
 
@@ -103,6 +103,9 @@ During lectures and heavy document reading, I often struggled to maintain contin
 So, I built Zebra Reader: **a customizable, lightweight reading ruler that floats over any application, letting you freely adjust strip height, spacing, colors, and opacity—all with full mouse click-through capability.**
 
 It made a genuine difference in my own daily workflow. I am making it open-source in the hopes that it can help anyone else navigating similar attention and reading challenges.
+
+![alt text](1.jpeg)
+![alt text](2.png)
 
 ### ✨ Features
 
