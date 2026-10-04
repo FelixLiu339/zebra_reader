@@ -1,0 +1,9 @@
+venv/
+build/
+dist/
+__pycache__/
+*.spec
+.vscode/
+
+make_icon.py
+image_ce7a7c.png
