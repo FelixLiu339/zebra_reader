@@ -83,6 +83,8 @@
 
 如果你觉得 Zebra Reader 确实改善了你的阅读体验，帮助你更好地集中精力工作与学习，欢迎请我喝杯咖啡支持后续功能维护与跨平台适配！非常感谢你的认可与温暖 ❤️
 
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/felixliu339)
+
 | 微信 / 支付宝 (Alipay / WeChat) | MobilePay |
 | :---: | :---: |
 | <img src="Alipay.png" width="220" alt="Alipay" /> | <img src="mobilepay QR.jpeg" width="220" alt="MobilePay" /> |
@@ -162,6 +164,8 @@ Every line of code is open and verifiable directly inside this repository. The a
 ### ☕ Buy Me a Coffee
 
 If Zebra Reader brings ease and focus to your reading routine, consider buying me a coffee to support continued maintenance and development. Thank you for your support! ❤️
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/felixliu339)
 
 | Alipay / WeChat Pay | MobilePay |
 | :---: | :---: |
